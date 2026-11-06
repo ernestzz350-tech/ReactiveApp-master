@@ -73,3 +73,6 @@ Then choose how to view the app:
 - React Native 0.86 and Expo SDK 57
 - expo-router (file-based navigation, tabs)
 - TypeScript
+
+Youtube video Link:
+https://youtu.be/JSrU0tyP-HM
