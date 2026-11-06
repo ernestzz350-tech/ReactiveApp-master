@@ -1,6 +1,6 @@
 # Chef's Menu Manager
 
-A mobile application built with **React Native (Expo) and expo-router** that lets a chef manage a restaurant menu: add, edit and delete dishes, search and filter the menu, and view menu statistics.
+A mobile application built with **React Native (Expo) and expo-router** that lets a chef manage a restaurant menu: add, edit and delete dishes, search and filter the menu, and view menu statistics. 
 
 This is the final part of the Portfolio of Evidence (POE), building on the Part 2 application.
 
